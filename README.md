@@ -2,7 +2,8 @@ CVE ID: CVE-2014-3341
 
 Cisco Bug ID: CSCup85616
 
-Ref: http://tools.cisco.com/security/center/viewAlert.x?alertId=35338
+Ref:      http://tools.cisco.com/security/center/viewAlert.x?alertId=35338
+          http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2014-3341
      
 
 Strings.txt Taken from https://fuzzdb.googlecode.com/svn-history/r127/trunk/wordlists-misc/wordlist-common-snmp-community-strings.txt
